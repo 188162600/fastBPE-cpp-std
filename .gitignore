@@ -2,4 +2,4 @@ fastBPE/fastBPE.cpp
 build
 dist
 fastBPE.egg-info
-fast.exe
+fast.*
